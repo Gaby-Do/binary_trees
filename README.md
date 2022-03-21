@@ -37,6 +37,6 @@ and execute
 - [0-binary_tree_node.c]()
 
 ## Authors
-[Linkedin: @Matias López](https://uy.linkedin.com/in/matias-l%C3%B3pez-777796194?trk=people-guest_people_search-card)
-[Linkedin: Gabriela Dominguez](https://www.linkedin.com/in/maria-gabriela-dominguez-bb95b41a6/)
+- [Linkedin: @Matias López](https://uy.linkedin.com/in/matias-l%C3%B3pez-777796194?trk=people-guest_people_search-card)
+- [Linkedin: Gabriela Dominguez](https://www.linkedin.com/in/maria-gabriela-dominguez-bb95b41a6/)
 
