@@ -34,8 +34,8 @@ and execute
 
 ## Directories
 
-- [0-binary_tree_node.c](https://github.com/Matilop15/binary_trees/blob/master/0-binary_tree_node.c)  Function that creates a binary tree node
-- [1-binary_tree_insert_left.c](https://github.com/Matilop15/binary_trees/blob/master/1-binary_tree_insert_left.c)
+- [0-binary_tree_node.c](https://github.com/Matilop15/binary_trees/blob/master/0-binary_tree_node.c) - Function that creates a binary tree node
+- [1-binary_tree_insert_left.c](https://github.com/Matilop15/binary_trees/blob/master/1-binary_tree_insert_left.c) *function that inserts a node as the left-child of another node
 - [2-binary_tree_insert_right.c](https://github.com/Matilop15/binary_trees/blob/master/2-binary_tree_insert_right.c)
 
 
