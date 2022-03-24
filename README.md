@@ -31,8 +31,26 @@ and execute
 ```
 ./new_name
 ```
+## Example
 
-## Directories
+Compile task #0
+```
+gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 0-main.c 0-binary_tree_node.c -o 0-node
+```
+Execute program
+```
+./0-node
+```
+Expectation
+```
+ .-------(098)-------.
+  .--(012)--.         .--(402)--.
+(006)     (016)     (256)     (512)
+```
+
+## Files
+
+- [binary_trees.h](https://github.com/Matilop15/binary_trees/blob/master/binary_trees.h) - Prototypes of all functions
 
 - [0-binary_tree_node.c](https://github.com/Matilop15/binary_trees/blob/master/0-binary_tree_node.c) - Function that creates a binary tree node
 - [1-binary_tree_insert_left.c](https://github.com/Matilop15/binary_trees/blob/master/1-binary_tree_insert_left.c) - Function that inserts a node as the left-child of another node
