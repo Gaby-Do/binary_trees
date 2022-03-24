@@ -1,6 +1,6 @@
 <img src="https://blog.holbertonschool.com/wp-content/uploads/2020/04/unnamed-2.png" width="170" height="210">
 
-# Binary_trees
+#0x1D. C - Binary_trees
 
 ## Lenguage
 <img src="https://img.icons8.com/color/50/000000/c-programming.png">
@@ -10,41 +10,46 @@
 - [Read about Big O Notation](https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation)
 - [Read about Binary Trees](https://en.wikipedia.org/wiki/Binary_tree)
 
-## Objetives
+## Learning Objetives
 
-- 
+- What is a binary tree
+- What is the difference between a binary tree and a Binary Search Tree
+- What is the possible gain in terms of time complexity compared to linked lists
+- What are the depth, the height, the size of a binary tree
+- What are the different traversal methods to go through a binary tree
+- What is a complete, a full, a perfect, a balanced binary tree
 
 ## Installation
 To use, first download  this repository into your local machine by issuing the following command in your local terminal. 
 ```
-git clone https://github.com/Matilop15/binary_trees.git
+$ git clone https://github.com/Matilop15/binary_trees.git
 ```
 
 ## Usage
 ```
-gcc -Wall -Werror -Wextra -pedantic -std=gnu89 <filename.c>
+$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 <filename.c>
 ```
 and execute
 ```
-./a.out
+$ ./a.out
 ```
 or 
 ```
-gcc -Wall -Werror -Wextra -pedantic -std=gnu89 <filename.c> -o <new_name>
+$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 <filename.c> -o <new_name>
 ```
 and execute 
 ```
-./new_name
+$ ./new_name
 ```
 ### Example
 
 Compile task #0
 ```
-gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 0-main.c 0-binary_tree_node.c -o 0-node
+$ gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 0-main.c 0-binary_tree_node.c -o 0-node
 ```
 Execute program
 ```
-./0-node
+$ ./0-node
 ```
 Expectation
 ```
