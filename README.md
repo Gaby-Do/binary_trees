@@ -47,7 +47,16 @@ and execute
 - [10-binary_tree_depth.c](https://github.com/Matilop15/binary_trees/blob/master/10-binary_tree_depth.c) - Function that measures the depth of a node in a binary tree
 - [11-binary_tree_size.c](https://github.com/Matilop15/binary_trees/blob/master/11-binary_tree_size.c) - Function that measures the size of a binary tree
 - [12-binary_tree_leaves.c](https://github.com/Matilop15/binary_trees/blob/master/12-binary_tree_leaves.c) - Function that counts the leaves in a binary tree
-
+- [13-binary_tree_nodes.c](https://github.com/Matilop15/binary_trees/blob/master/13-binary_tree_nodes.c) - Function that counts the nodes with at least 1 child in a binary tree
+- [14-binary_tree_balance.c](https://github.com/Matilop15/binary_trees/blob/master/14-binary_tree_balance.c) - Function that measures the balance factor of a binary tree
+- [15-binary_tree_is_full.c](https://github.com/Matilop15/binary_trees/blob/master/15-binary_tree_is_full.c) - Function that checks if a binary tree is full
+- [16-binary_tree_is_perfect.c](https://github.com/Matilop15/binary_trees/blob/master/16-binary_tree_is_perfect.c) - Function that checks if a binary tree is perfect
+- [17-binary_tree_sibling.c](https://github.com/Matilop15/binary_trees/blob/master/17-binary_tree_sibling.c) - Function that finds the sibling of a node
+- [18-binary_tree_uncle.c](https://github.com/Matilop15/binary_trees/blob/master/18-binary_tree_uncle.c) - Function that finds the uncle of a node
+- [101-binary_tree_levelorder.c](https://github.com/Matilop15/binary_trees/blob/master/101-binary_tree_levelorder.c)- Function that goes through a binary tree using level-order traversal
+- [115-O](https://github.com/Matilop15/binary_trees/blob/master/115-O) - The average time complexities of those operations on a Binary Search Tree
+- [125-O](https://github.com/Matilop15/binary_trees/blob/master/125-O) - the average time complexities of those operations on an AVL Tree 
+- [135-O](https://github.com/Matilop15/binary_trees/blob/master/135-O) - The average time complexities of those operations on a Binary Heap 
 
 ## Authors
 - [Linkedin: Matias López](https://uy.linkedin.com/in/matias-l%C3%B3pez-777796194?trk=people-guest_people_search-card)
