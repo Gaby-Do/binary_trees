@@ -10,7 +10,7 @@
 - [Read about Big O Notation](https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation)
 - [Read about Binary Trees](https://en.wikipedia.org/wiki/Binary_tree)
 
-## Learning Objetives
+## <img src="https://img.icons8.com/office/30/000000/learning.png"/> Learning Objetives
 
 - What is a `binary tree`
 - What is the difference between a `binary tree`  and a `Binary Search Tree`
@@ -19,7 +19,7 @@
 - What are the different traversal methods to go through a binary tree
 - What is a complete, a full, a perfect, a balanced binary tree
 
-## Installation
+## <img src="https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/30/000000/external-dowload-big-data-xnimrodx-lineal-color-xnimrodx.png"/> Installation
 To use, first download  this repository into your local machine by issuing the following command in your local terminal. 
 ```
 $ git clone https://github.com/Matilop15/binary_trees.git
