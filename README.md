@@ -25,7 +25,7 @@ To use, first download  this repository into your local machine by issuing the f
 $ git clone https://github.com/Matilop15/binary_trees.git
 ```
 
-## Usage
+## <img src="https://img.icons8.com/external-filled-outline-perfect-kalash/30/000000/external-work-coronavirus-protective-filled-outline-perfect-kalash.png"/> Usage
 ```
 $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 <filename.c>
 ```
