@@ -4,6 +4,7 @@
 
 ## Lenguage
 <img src="https://img.icons8.com/color/50/000000/c-programming.png">
+
 - [Read about C](https://holbertonintranet.s3.amazonaws.com/uploads/misc/2021/1/d801279f75de6a982a55d752dfd3632909f720f0.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220324%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220324T125252Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e2a33ce2d5bfc3fca92f759423257dc7ff69b0f620d0a01814bc329db4d52aea)
 - [Read about recursion](https://holbertonintranet.s3.amazonaws.com/uploads/misc/2021/1/2818ba6f14f644b871dcbd746925fa15b8cd5937.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220324%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220324T125336Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5f14c593c7bfeaccd6f4bafc8bd20d1bc85fc1a92a94e1ccfe2fcee64ac8419c)
 - [Read about Big O Notation](https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation)
