@@ -12,8 +12,8 @@
 
 ## Learning Objetives
 
-- What is a binary tree
-- What is the difference between a binary tree and a Binary Search Tree
+- What is a `binary tree`
+- What is the difference between a `binary tree`  and a `Binary Search Tree`
 - What is the possible gain in terms of time complexity compared to linked lists
 - What are the depth, the height, the size of a binary tree
 - What are the different traversal methods to go through a binary tree
@@ -42,7 +42,6 @@ and execute
 $ ./new_name
 ```
 ### Example
-
 Compile task #0
 ```
 $ gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 0-main.c 0-binary_tree_node.c -o 0-node
@@ -58,7 +57,7 @@ Expectation
 (006)     (016)     (256)     (512)
 ```
 
-## Files
+## Files <img src="https://img.icons8.com/dusk/64/000000/file--v2.png"/>
 
 - [binary_trees.h](https://github.com/Matilop15/binary_trees/blob/master/binary_trees.h) - Prototypes of all functions
 
