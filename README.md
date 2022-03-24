@@ -41,7 +41,7 @@ and execute
 ```
 $ ./new_name
 ```
-### Example
+### Example <img src="https://img.icons8.com/external-bearicons-gradient-bearicons/40/000000/external-Example-miscellany-texts-and-badges-bearicons-gradient-bearicons.png"/>
 Compile task #0
 ```
 $ gcc -Wall -Wextra -Werror -pedantic binary_tree_print.c 0-main.c 0-binary_tree_node.c -o 0-node
@@ -57,7 +57,7 @@ Expectation
 (006)     (016)     (256)     (512)
 ```
 
-## Files <img src="https://img.icons8.com/dusk/64/000000/file--v2.png"/>
+## Files <img src="https://img.icons8.com/dusk/40/000000/file--v2.png"/>
 
 - [binary_trees.h](https://github.com/Matilop15/binary_trees/blob/master/binary_trees.h) - Prototypes of all functions
 
